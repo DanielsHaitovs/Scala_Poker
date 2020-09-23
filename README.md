@@ -20,3 +20,9 @@ suit (one of"h", "d", "c", "s") .
 
 4cKs4h8s7s Ad4s Ac4d As9s KhKd 5d6d
 2h3h4h5d8d KdKs 9hJh
+
+
+
+Not implemented combination compare function for cases when 
+1)2 players will have simmilar combination with different values!
+2)Higher card is not implemented, in case when nobody have any combination, will be displayed list with 0(n), where n is player amount
